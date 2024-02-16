@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.967744cf.css",
-    "main.js": "/static/js/main.fbfb62ff.js",
+    "main.js": "/static/js/main.b4d1e863.js",
     "static/media/web-design-2906159_1280.jpg": "/static/media/web-design-2906159_1280.503c520373fc8ee3d8cd.jpg",
     "static/media/pic_profill.jpg": "/static/media/pic_profill.fe1f82ca1d669b9aa302.jpg",
     "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.967744cf.css",
-    "static/js/main.fbfb62ff.js"
+    "static/js/main.b4d1e863.js"
   ]
 }
