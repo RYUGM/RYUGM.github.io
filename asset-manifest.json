@@ -1,8 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.967744cf.css",
-    "main.js": "/static/js/main.0f2c7134.js",
+    "main.js": "/static/js/main.f003157a.js",
+    "static/media/icon_gold.png": "/static/media/icon_gold.655f0bea7bc6ede85146.png",
+    "static/media/icon_tt.png": "/static/media/icon_tt.00ed9b23a0415a58f512.png",
+    "static/media/sc_g_3.JPEG": "/static/media/sc_g_3.726ecfa52466fd02cbe8.JPEG",
+    "static/media/sc_g_1_ios.JPEG": "/static/media/sc_g_1_ios.13f9bd9f208d43c66211.JPEG",
     "static/media/web-design-2906159_1280.jpg": "/static/media/web-design-2906159_1280.503c520373fc8ee3d8cd.jpg",
+    "static/media/sc_g_4.JPEG": "/static/media/sc_g_4.718add55912c47a3b42d.JPEG",
+    "static/media/sc_g_2.JPEG": "/static/media/sc_g_2.3080a920cff9987ed75a.JPEG",
+    "static/media/sc_g_1_and.png": "/static/media/sc_g_1_and.0a726e5357f1a08c387f.png",
     "static/media/pic_profill.jpg": "/static/media/pic_profill.fe1f82ca1d669b9aa302.jpg",
     "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
     "static/media/nucleo-outline.ttf": "/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
@@ -17,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.967744cf.css",
-    "static/js/main.0f2c7134.js"
+    "static/js/main.f003157a.js"
   ]
 }
